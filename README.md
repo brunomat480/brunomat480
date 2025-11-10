@@ -1,5 +1,7 @@
 ### Olá! Eu sou Bruno Matias
 
+<a href="https://brunomatias.dev.br" target="_blank" rel="noopener noreferrer">🌐 Visite meu site</a>
+
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=brunomat480&show_icons=true&theme=tokyonight"
@@ -11,11 +13,9 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=brunomat480&show_icons=true" />
 </picture>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomat480&layout=compact&theme=tokyonight&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)" />
 </a>
-
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -29,8 +29,8 @@
 </div>
 
 ##
-
 <div>
+  <a href="https://brunomatias.dev.br" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/brunojosematias/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:brunojosematiasdev@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
